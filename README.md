@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yurivanderburg
-- 👀 I’m interested in Physics
+- 👀 I’m interested in (Astro-) Particle Phyics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything :)
 
