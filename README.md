@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yurivanderburg. I am:
 - 👀 interested in Astro- and Particle Physics (even better: Astroparticle Physics!)
 - 🌱 currently learning Python
-- 💞️ I’m looking to collaborate on everything :)
-- a linux enthusiast!
+- 💞️ looking to collaborate :)
+- ✨ a linux and FOSS enthusiast!
 
 <!---
 Yurivanderburg/Yurivanderburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
